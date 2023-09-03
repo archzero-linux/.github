@@ -1,2 +1,2 @@
-# .github
-Config files for github
+# ArchZero Linux
+A GNU/Linux Distro based on Arch Linux.
